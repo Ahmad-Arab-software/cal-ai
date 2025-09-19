@@ -1,0 +1,5 @@
+{
+  "name": "Cal AI",
+  "description": "Cal AI is a smart, AI-powered calorie and macro tracker. Log meals and track nutrition just by taking a picture of your food.",
+  "requestFramePermissions": ["camera"]
+}
